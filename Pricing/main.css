@@ -267,7 +267,7 @@
 		text-decoration: none;
 		text-transform: uppercase;
 		font-weight: 80;
-		font-size: 1.2em;
+		font-size: 36px;
 		color: #FFF;
 	}
 	
@@ -438,7 +438,7 @@
 	#wrapper3
 	{
 		overflow: hidden;
-		padding: 8em 0em;
+		padding: 8em 8em;
 		background: #FFF;
 	}
 	
