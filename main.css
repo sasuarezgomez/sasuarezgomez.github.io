@@ -2,6 +2,10 @@ html, body
 	{
 		height: 100%;
 	}
+
+<link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/animate.css/3.5.2/animate.min.css">
+
+<img src="sasasa" alt="Sasuphoto" class="animated flipInY">
 	
 	body
 	{
