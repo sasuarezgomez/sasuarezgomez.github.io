@@ -59,12 +59,27 @@ html, body
 	}
 	
 
-
-img{
-	width: 250px;
-	height: 500px;
-	margin: 15px 15px 15px 15px;
+#img{
+border-radius: 18px;
 }
+#img-2,
+#img-3,
+#img-4,
+#img-5,
+#img-6,
+#img-7,
+#img-8,
+#img-9,
+#img-10,
+#img-11,
+#img-12,
+#img-13{
+border-radius: 18px;
+margin: 15px;
+padding-bottom: 10px;
+}
+
+
 
 /*********************************************************************************/
 /* Form Style                                                                    */
@@ -559,29 +574,7 @@ filter: progid:DXImageTransform.Microsoft.gradient( startColorstr='#a6a53cb7', e
 		color: rgba(255,255,255,0.6);
 	}
 
-/*********************************************************************************/
-/* Newsletter                                                                    */
-/*********************************************************************************/
 
-	#newsletter
-	{
-		overflow: hidden;
-		padding: 8em 0em;
-		background: #EDEDED;
-		text-align: center;
-	}
-	
-	#newsletter .title h2
-	{
-		color: rgba(0,0,0,0.8);
-	}
-	
-	#newsletter .content
-	{
-		width: 600px;
-		margin: 0px auto;
-	}
-	
 /*********************************************************************************/
 /* Portfolio                                                                     */
 /*********************************************************************************/
