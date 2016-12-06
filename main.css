@@ -517,6 +517,9 @@ filter: progid:DXImageTransform.Microsoft.gradient( startColorstr='#a6a53cb7', e
 /*********************************************************************************/
 /* Footer                                                                        */
 /*********************************************************************************/
+footer {
+	color: black;
+}
 
 	#footer
 	{
