@@ -19,6 +19,7 @@ html, body
 	{
 		margin: 0;
 		padding: 0;
+		font-family: 'Fjalla One', sans-serif;
 	}
 	
 	p, ol, ul
@@ -300,6 +301,7 @@ html, body
 	.title
 	{
 		margin-bottom: 3em;
+		font-family: 'Fjalla One', sans-serif;
 	}
 	
 	.title h2
