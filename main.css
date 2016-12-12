@@ -358,6 +358,10 @@ h1{
 	#logo h1
 	{
 		font-size: 100px;
+		 font-family: 'autumn_in_novemberregular';
+   		 font-weight: normal;
+    		font-style: normal;
+		color: #FFF;
 	}
 	
 	#logo a
