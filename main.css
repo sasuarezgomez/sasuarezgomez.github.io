@@ -329,11 +329,7 @@ html, body
 	{
 		overflow: hidden;
 		padding: 5em 0em;
-		/* Permalink - use to edit and share this gradient: http://colorzilla.com/gradient-editor/#a53cb7+0,000000+100&0.65+0,0+100 */
-background: -moz-linear-gradient(-45deg, rgba(165,60,183,0.65) 0%, rgba(0,0,0,0) 100%); /* FF3.6-15 */
-background: -webkit-linear-gradient(-45deg, rgba(165,60,183,0.65) 0%,rgba(0,0,0,0) 100%); /* Chrome10-25,Safari5.1-6 */
-background: linear-gradient(135deg, rgba(165,60,183,0.65) 0%,rgba(0,0,0,0) 100%); /* W3C, IE10+, FF16+, Chrome26+, Opera12+, Safari7+ */
-filter: progid:DXImageTransform.Microsoft.gradient( startColorstr='#a6a53cb7', endColorstr='#00000000',GradientType=1 ); /* IE6-9 fallback on horizontal gradient */
+	        background-image: url("colorcut.jpg");
 		background-size: cover;
 	}
 
@@ -421,13 +417,6 @@ filter: progid:DXImageTransform.Microsoft.gradient( startColorstr='#a6a53cb7', e
 	}
 	
 
-/*********************************************************************************/
-/* Banner                                                                        */
-/*********************************************************************************/
-
-	#banner
-	{
-	}
 
 /*********************************************************************************/
 /* Wrapper                                                                       */
@@ -490,29 +479,7 @@ filter: progid:DXImageTransform.Microsoft.gradient( startColorstr='#a6a53cb7', e
 		color: rgba(0,0,0,0.8);
 	}
 
-/*********************************************************************************/
-/* Page                                                                          */
-/*********************************************************************************/
 
-	#page
-	{
-	}
-
-/*********************************************************************************/
-/* Content                                                                       */
-/*********************************************************************************/
-
-	#content
-	{
-	}
-
-/*********************************************************************************/
-/* Sidebar                                                                       */
-/*********************************************************************************/
-
-	#sidebar
-	{
-	}
 
 /*********************************************************************************/
 /* Footer                                                                        */
@@ -565,100 +532,7 @@ nav {
 		color: rgba(255,255,255,0.6);
 	}
 
-/*********************************************************************************/
-/* Newsletter                                                                    */
-/*********************************************************************************/
 
-	#newsletter
-	{
-		overflow: hidden;
-		padding: 8em 0em;
-		background: #EDEDED;
-		text-align: center;
-	}
-	
-	#newsletter .title h2
-	{
-		color: rgba(0,0,0,0.8);
-	}
-	
-	#newsletter .content
-	{
-		width: 600px;
-		margin: 0px auto;
-	}
-	
-/*********************************************************************************/
-/* Portfolio                                                                     */
-/*********************************************************************************/
-
-	#portfolio
-	{
-	}
-	
-	#portfolio .pbox1,
-	#portfolio .pbox2
-	{
-		overflow: hidden;
-	}
-	
-	#portfolio .box
-	{
-		padding: 1em 2em 1em 1em;
-		text-align: center;
-		color: rgba(0,0,0,0.5);
-	}
-	
-	#portfolio h3
-	{
-		display: block;
-		margin-bottom: 1em;
-		padding-bottom: 1em;
-		border-bottom: 1px solid rgba(0,0,0,0.1);
-		text-transform: uppercase;
-		font-size: 1em;
-		color: rgba(0,0,0,0.6);
-	}
-
-	#portfolio .title
-	{
-		text-align: center;
-	}
-
-	#portfolio .title h2
-	{
-		color: rgba(0,0,0,0.8);
-	}
-
-	#portfolio .icon
-	{
-		display: block;
-		margin-bottom: 1em;
-		font-size: 2em;
-		color: rgba(0,0,0,0.6);
-	}
-	
-	.column1,
-	.column2,
-	.column3,
-	.column4
-	{
-		width: 282px;
-	}
-	
-	.column1,
-	.column2,
-	.column3
-	{
-		float: left;
-		margin-right: 23px;
-		border-right: 1px solid rgba(0,0,0,0.1);
-	}
-	
-	.column4
-	{
-		float: right;
-	}
 	
 /*********************************************************************************/
 /* Featured                                                                     */
