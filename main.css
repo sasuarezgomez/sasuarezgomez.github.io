@@ -577,3 +577,11 @@ nav {
 		padding-right: 0.50em;
 	}
 	
+@font-face {
+    font-family: 'autumn_in_novemberregular';
+    src: url('autumn_in_november-webfont.woff2') format('woff2'),
+         url('autumn_in_november-webfont.woff') format('woff');
+    font-weight: normal;
+    font-style: normal;
+
+}
