@@ -401,25 +401,29 @@ padding-bottom: 10px;
 	#wrapper1
 	{
 		background: #EDEDED;
+		overflow: hidden;
+		text-align: center;
 	}
 
 	#wrapper2
 	{
-		background: #EDEDED;
+		background: #FFF;
+		overflow: hidden;
+		text-align: center;
 	}
 
 	#wrapper3
 	{
 		overflow: hidden;
-		padding: 8em 0em;
-		background: #FFF;
+		background: #EDEDED;
+		text-align: center;
 	}
 	
 	#wrapper4
 	{
 		overflow: hidden;
-		padding: 8em 0em;
-		background: #E74E59;
+		background: #FFF;
+		text-align: center;
 	}
 
 /*********************************************************************************/
