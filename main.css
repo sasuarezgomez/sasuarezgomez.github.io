@@ -8,7 +8,6 @@ html, body
 	{
 		margin: 0px;
 		padding: 0px;
-		background: #333333;
 		font-family: 'Source Sans Pro', sans-serif;
 		font-size: 12pt;
 		font-weight: 400;
@@ -520,6 +519,7 @@ filter: progid:DXImageTransform.Microsoft.gradient( startColorstr='#a6a53cb7', e
 /*********************************************************************************/
 footer {
 	color: black;
+	background-image: url("colorcut.jpg");
 }
 
 
