@@ -318,7 +318,12 @@ padding-bottom: 10px;
 	
 	#logo h1
 	{
-		font-size: 3.5em;
+
+	font-size: 100px;
+	font-family: 'autumn_in_novemberregular';
+	font-weight: normal;
+	font-style: normal;
+	color: #FFF;
 	}
 	
 	#logo a
@@ -652,3 +657,12 @@ footer {
 	{
 		padding-right: 0.50em;
 	}
+
+
+@font-face {
+font-family: 'autumn_in_novemberregular';
+src: url('autumn_in_november-webfont.woff2') format('woff2'),
+url('autumn_in_november-webfont.woff') format('woff');
+font-weight: normal;
+font-style: normal;
+}
