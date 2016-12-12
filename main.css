@@ -19,7 +19,7 @@ h1{
     font-family: 'autumn_in_novemberregular';
     font-weight: normal;
     font-style: normal;
-    font-size: 90px;
+    font-size: 100px;
 	color: #FFF;
 
 }
@@ -357,7 +357,7 @@ h1{
 	
 	#logo h1
 	{
-		font-size: 3.5em;
+		font-size: 100px;
 	}
 	
 	#logo a
