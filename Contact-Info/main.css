@@ -5,6 +5,7 @@ html, body
 	
 	body
 	{
+		text-align: center;
 		margin: 0px;
 		padding: 0px;
 		background-image: url("colorcut.jpg");
