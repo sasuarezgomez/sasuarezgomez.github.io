@@ -13,7 +13,9 @@ html, body
 		color: #000000;
 		background-image: url("colorcut.jpg");
 	}
-	
+section{
+	color:white ;
+}
 	
 	h1, h2, h3
 	{
